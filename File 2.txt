@@ -2,5 +2,5 @@ File 2
 Some description from github web page
 
 
-New line
+New line from master
 New line 2
