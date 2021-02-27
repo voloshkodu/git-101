@@ -1,7 +1,9 @@
 File 2
 Some description from github web page
 
-
 New line
 New line 2
 New line from br1
+
+New line from master
+New line 2
