@@ -8,4 +8,7 @@ New line from br1
 New line from master
 New line 2
 
+
 feature/task-1
+hotfix
+
