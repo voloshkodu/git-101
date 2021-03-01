@@ -10,3 +10,5 @@ New line 2
 
 task-1
 hotfix
+
+task-2
