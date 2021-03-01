@@ -9,3 +9,4 @@ New line from master
 New line 2
 
 task-1
+hotfix
